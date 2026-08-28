@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Lakshya Arora 👋
 
-<!--
-**lakshya-arora7/lakshya-arora7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### CSE Student | Full-Stack Developer | C++ & DSA
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building practical software
+and understanding how things work behind the scenes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Currently working with C++, JavaScript & backend technologies
+- 🧠 Strengthening my Data Structures & Algorithms skills
+- 🚀 Building real-world full-stack projects
+- 🗄️ Exploring backend systems, APIs & databases
+- 🤝 Interested in collaborative development and open-source
+
+### 🛠️ Tech Stack
+
+**Languages:** C++, JavaScript, SQL  
+**Frontend:** HTML, CSS, React  
+**Backend:** Node.js, Express  
+**Databases:** MySQL, MongoDB, Neo4j  
+**Tools:** Git, GitHub, VS Code
+
+### 📌 Featured Projects
+
+- 🔄 **Skill Swap** — A platform that connects people to exchange skills,
+  learn from each other, and collaborate. Built with a full-stack architecture
+  and Neo4j for backend data management.
+
+- 🏥 **Sehat** — A healthcare-focused application designed to provide
+  useful digital solutions around health and user needs.
+
+🚀 More projects and improvements coming soon.
+
+### 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/lakshya-arora-3a1237280/)
